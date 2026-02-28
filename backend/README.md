@@ -1,7 +1,7 @@
 # Backend — Node.js + SQL Server API
 
 ## Stack
-- Node.js + Express
+- Node.js
 - SQL Server (mssql)
 - JWT Authentication
 - bcryptjs (password hashing)
